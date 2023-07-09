@@ -567,7 +567,7 @@ ul.top_icon li a {
      right: 0;
      top: 9px;
      height: 10px;
-     border-right: 1px dotted #999;
+     border-right: 1px dotted black;
 }
 
 .top-menu-left li:last-child::before {
@@ -1773,7 +1773,7 @@ display: block
 } 
 .clients .titlepage {padding-bottom: 0px;}
 .clients .titlepage h2 {
-     color: #000;
+     color:#ff0000;
 }
 
 .clients_red {
