@@ -448,7 +448,6 @@ background-position: center center;
      float: left;
      position: relative;
      padding-top: 11px;
-     left: -50px;
 }
 
 nav.main-menu {
@@ -567,7 +566,7 @@ ul.top_icon li a {
      right: 0;
      top: 9px;
      height: 10px;
-     border-right: 1px dotted black;
+     border-right: 1px dotted #999;
 }
 
 .top-menu-left li:last-child::before {
@@ -1773,7 +1772,7 @@ display: block
 } 
 .clients .titlepage {padding-bottom: 0px;}
 .clients .titlepage h2 {
-     color:#ff0000;
+     color: #000;
 }
 
 .clients_red {
@@ -2158,13 +2157,3 @@ ul.location_icon span {
 .special-page .relative  {text-align:center !important; }
 
 .special-page .footer {margin-top: 90px;}
-
-.title_logo{
-     color:red;
-     font-size: 31px;
-     font-weight: bold;
-}
-
-.first-slide{
-    
-}
